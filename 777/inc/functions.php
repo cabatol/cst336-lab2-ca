@@ -22,9 +22,9 @@
                         break;
                 case 2: $totalPoints = 250;
                         break;
-                case 3: $totalPoints = 750;
+                case 3: $totalPoints = 900;
                         break;
-                case 4: $totalPoints = 100;
+                case 4: $totalPoints = 750;
                         break;
             }
             
